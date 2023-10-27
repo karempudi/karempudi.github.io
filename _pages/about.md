@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Almost PhD from <a href='https://elflab.icm.uu.se'>Elf Lab</a>.
+subtitle: Engineer and computer programmer.
 
 profile:
   align: right
@@ -19,11 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I am soon to graduate PhD student from [Johan Elf](https://elflab.icm.uu.se) group. I worked on many areas during my PhD ranging from microscopy and microfluidics to AI/ML applications for high-throuput data analysis. In a former life I used to be a fabrication process engineer working with most of the standard techniques found in academic clean-rooms, but for the past 3-4 years I mostly write code in Python and some C++.
 
-
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This is my [blog](/blog), where I write notes about the things I am figuring out and document some ideas. I am not going to be at the university for long and this will be hosting space for all the fun things I am interested in. These days I am mostly studying [`how to make neural networks run really fast`](https://www.youtube.com/watch?v=rCFvPEQTxKI&list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB) , [`learning CUDA to do more efficient operations on GPUs`](https://a.co/d/27otEFR), and [`some 3D modeling work as I am playing with VR googles`]().
